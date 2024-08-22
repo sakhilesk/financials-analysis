@@ -7,7 +7,8 @@
 It would help if you had these installed in your system before running this engine
 
 <ul>
-  <li>Numpy</li>
+  <li>Pandas</li>
+  <li>matplotlib</li>
   <li>Typing</li>
   <li>Python (version 3.7+)</li>
 </ul>
